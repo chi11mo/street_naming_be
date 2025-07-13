@@ -27,6 +27,15 @@ function App() {
       {selected && (
         <MailModal entry={selected} onClose={() => setSelected(null)} />
       )}
+      <section className="mt-8">
+        <h2 className="text-xl font-bold mb-2">Warum Straßennamen ändern?</h2>
+        <p className="mb-2">
+          Straßennamen prägen das öffentliche Gedächtnis. Werden dabei Personen oder Unternehmen geehrt, die durch Nationalsozialismus oder Zwangsarbeit belastet sind, vermittelt dies ein unkritisches Geschichtsbild.
+        </p>
+        <p>
+          Eine Umbenennung oder Kontextualisierung kann helfen, Opfer zu würdigen und die lokale Erinnerungskultur zu stärken.
+        </p>
+      </section>
     </div>
   )
 }
