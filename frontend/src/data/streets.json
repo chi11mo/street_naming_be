@@ -1,0 +1,102 @@
+[
+  {
+    "street": "Agnes-Miegel-Straße",
+    "named_after": "Agnes Miegel (1879–1964)",
+    "bio": "Deutsche Schriftstellerin und Journalistin, die ab 1933 zunehmend NS-Propagandatexte verfasste und 1940 von Hitler als besonders bedeutsame Künstlerin ausgezeichnet wurde.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Agnes_Miegel_1902.jpg",
+    "reason": "Aktive NS-Propagandistin, 1940 Aufnahme in die Gottbegnadeten-Liste",
+    "sources": ["https://de.wikipedia.org/wiki/Agnes_Miegel"],
+    "status": "belastet",
+    "proposed_action": "Umbenennung"
+  },
+  {
+    "street": "Maria-Kahle-Straße",
+    "named_after": "Maria Kahle (1891–1975)",
+    "bio": "Völkisch-nationalistische Schriftstellerin, in den 1930er Jahren als \"Volkserzieherin\" geehrt und 1937 mit dem Westfälischen Literaturpreis ausgezeichnet.",
+    "image": "https://via.placeholder.com/400x300?text=No+Image",
+    "reason": "Verbreitete nationalistische und NS-nahe Literatur",
+    "sources": ["https://wulfen-wiki.de/index.php/Maria_Kahle"],
+    "status": "belastet",
+    "proposed_action": "Umbenennung"
+  },
+  {
+    "street": "Hermann-Löns-Weg",
+    "named_after": "Hermann Löns (1866–1914)",
+    "bio": "Heimatdichter, dessen Werke im Nationalsozialismus als \"Heide-Prophet\" verehrt und propagandistisch genutzt wurden.",
+    "image": "https://via.placeholder.com/400x300?text=No+Image",
+    "reason": "Zahlreiche NS-Verehrungsschriften, Idealisierung durch das Regime",
+    "sources": ["https://de.wikipedia.org/wiki/Hermann_L%C3%B6ns"],
+    "status": "belastet",
+    "proposed_action": "Umbenennung"
+  },
+  {
+    "street": "Gustav-Freytag-Straße",
+    "named_after": "Gustav Freytag (1816–1895)",
+    "bio": "Schriftsteller, sein Roman \"Soll und Haben\" (1855) nutzt antisemitische Klischees und wurde im Nationalsozialismus als vorbildlich national angesehen.",
+    "image": "https://via.placeholder.com/400x300?text=No+Image",
+    "reason": "Werk diente im Dritten Reich als nationalistische Pflichtlektüre",
+    "sources": ["https://de.wikipedia.org/wiki/Literarischer_Antisemitismus"],
+    "status": "belastet",
+    "proposed_action": "Umbenennung"
+  },
+  {
+    "street": "Christine-Koch-Straße",
+    "named_after": "Christine Koch (1869–1959)",
+    "bio": "Sauerländer Mundartdichterin, deren Nachlass eine Nähe zu völkisch-nationalsozialistischem Gedankengut und Mitläufertum erkennen lässt.",
+    "image": "https://via.placeholder.com/400x300?text=No+Image",
+    "reason": "Forschung weist auf völkisch-nationale und NS-Nähe hin",
+    "sources": ["https://www.sauerlandkurier.de/hochsauerlandkreis/schmallenberg/kein-aktueller-grund-diskussion-5714799.html"],
+    "status": "belastet",
+    "proposed_action": "Umbenennung"
+  },
+  {
+    "street": "Carl-Zeiss-Straße",
+    "named_after": "Carl Zeiss AG",
+    "bio": "Die Zeiss-Werke setzten im Zweiten Weltkrieg tausende Zwangsarbeiter:innen ein und betrieben eigene Lager in Jena.",
+    "image": "https://via.placeholder.com/400x300?text=No+Image",
+    "reason": "Unternehmen profitierte von Zwangsarbeit",
+    "sources": ["https://www.zwangsarbeit-in-jena.de/themen-und-orte/carl-zeiss"],
+    "status": "indirekt",
+    "proposed_action": "Kontextualisierung"
+  },
+  {
+    "street": "Daimlerring",
+    "named_after": "Daimler-Benz AG",
+    "bio": "Kernunternehmen der nationalsozialistischen Rüstungswirtschaft, das stark vom Einsatz von Zwangsarbeit profitierte.",
+    "image": "https://via.placeholder.com/400x300?text=No+Image",
+    "reason": "Profiteur massiver Zwangsarbeit",
+    "sources": ["https://www.bildung-ns-zwangsarbeit.de/informieren/akteure/daimler-benz-ag/", "https://group.mercedes-benz.com/unternehmen/tradition/geschichte/1933-1945.html"],
+    "status": "indirekt",
+    "proposed_action": "Kontextualisierung"
+  },
+  {
+    "street": "Siemensstraße",
+    "named_after": "Siemens AG",
+    "bio": "Der Konzern beschäftigte rund 120.000 Zwangsarbeiter:innen, unter anderem im KZ-Außenlager Ravensbrück.",
+    "image": "https://via.placeholder.com/400x300?text=No+Image",
+    "reason": "Einsatz zehntausender Zwangsarbeiter",
+    "sources": ["https://www.igmetall-berlin.de/aktuelles/meldung/siemens-und-zwangsarbeit-das-unerklaerliche-erlebbar-machen"],
+    "status": "indirekt",
+    "proposed_action": "Kontextualisierung"
+  },
+  {
+    "street": "Boschstraße",
+    "named_after": "Robert Bosch GmbH",
+    "bio": "Der Bosch-Konzern nutzte während des Zweiten Weltkriegs Zwangsarbeiter, etwa in Ausweichwerken in Kleinmachnow und im Hildesheimer Wald.",
+    "image": "https://via.placeholder.com/400x300?text=No+Image",
+    "reason": "Unternehmen setzte Zwangsarbeiter ein",
+    "sources": ["https://www.spiegel.de/geschichte/robert-bosch-gmbh-im-nationalsozialismus-die-geschichte-bekannter-firmen-verbaende-und-vereine-a-4135f50b-dbd5-462a-9670-ab21beb90aff", "https://www.porta-polonica.de/de/atlas-der-erinnerungsorte/zwangsarbeit-einer-tarnfabrik-des-bosch-konzerns-bei-hildesheim"],
+    "status": "indirekt",
+    "proposed_action": "Kontextualisierung"
+  },
+  {
+    "street": "Dyckerhoffstraße",
+    "named_after": "Dyckerhoff GmbH",
+    "bio": "Der Zementhersteller taucht in bundesweiten Listen von NS-Profiteuren auf; konkrete Belege für Beckum stehen noch aus.",
+    "image": "https://via.placeholder.com/400x300?text=No+Image",
+    "reason": "Verdacht auf Profite durch Zwangsarbeit",
+    "sources": ["https://ns-in-ka.de/wp-content/uploads/2017/06/Liste_Unternehmen.pdf"],
+    "status": "prüffall",
+    "proposed_action": "Prüfung"
+  }
+]
