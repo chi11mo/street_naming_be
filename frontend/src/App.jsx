@@ -6,6 +6,8 @@ import InfoSection from './components/InfoSection'
 import PersonDetailPage from './components/PersonDetailPage'
 import Impressum from './components/Impressum'
 import Datenschutz from './components/Datenschutz'
+import { PRIMARY_COLOR, SECONDARY_COLOR, ACCENT_COLOR_1, ACCENT_COLOR_2, ACCENT_COLOR_3, ACCENT_COLOR_4, PALETTE } from './lib/colors';
+import solidLogo from './lib/solid_logo.jpeg';
 
 function App() {
   const [query, setQuery] = useState('')
@@ -64,10 +66,13 @@ function App() {
       {/* Header */}
       <header className="bg-white shadow-lg border-b-4 border-red-600">
         <div className="container mx-auto max-w-6xl px-4 py-8">
-          <div className="text-center">
-            <h1 className="text-4xl font-bold text-gray-800 mb-4">
-              Beckumer Straßennamen & NS-Bezüge
-            </h1>
+          <div className="text-center flex flex-col items-center">
+            <div className="flex items-center justify-center mb-2">
+              <img src={solidLogo} alt="Solid Logo" className="h-12 w-auto rounded-lg shadow mr-4 border-2 border-red-100 bg-white" />
+              <h1 className="text-4xl font-bold text-gray-800 mb-0">
+                Beckumer Straßennamen & NS-Bezüge
+              </h1>
+            </div>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed mb-6">
               Diese Seite informiert über historisch belastete Straßennamen in Beckum und deren 
               Verbindungen zur NS-Zeit. Scannen Sie den QR-Code auf den Infoplakaten für 

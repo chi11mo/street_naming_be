@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { makeMayorMail } from '../lib/utils'
+import { PRIMARY_COLOR, ACCENT_COLOR_1, ACCENT_COLOR_2 } from '../lib/colors';
 
 function MailModal({ entry, onClose }) {
   const [copied, setCopied] = useState(false)

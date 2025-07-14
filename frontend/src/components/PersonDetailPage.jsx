@@ -1,5 +1,6 @@
 import React from 'react'
 import { makeMayorMail } from '../lib/utils'
+import { PRIMARY_COLOR, ACCENT_COLOR_1, ACCENT_COLOR_2, ACCENT_COLOR_3, ACCENT_COLOR_4 } from '../lib/colors';
 
 function PersonDetailPage({ person, onBack }) {
   const getPersonData = (person) => {
