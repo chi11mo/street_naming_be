@@ -1,4 +1,5 @@
 import React from 'react'
+import { PRIMARY_COLOR, ACCENT_COLOR_1, ACCENT_COLOR_2, ACCENT_COLOR_3, ACCENT_COLOR_4 } from '../lib/colors';
 
 const statusConfig = {
   belastet: {
