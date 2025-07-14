@@ -319,7 +319,7 @@ function PersonDetailPage({ person, onBack }) {
               <div className="w-full h-80 bg-gray-300 border-2 border-dashed border-gray-500 flex items-center justify-center mb-6 rounded-lg">
                 {data.portrait ? (
                   <img 
-                    src={data.portrait} 
+                    src={`/portraits/${data.portrait}`} 
                     alt={`Portrait von ${data.name}`}
                     className="w-full h-full object-cover border-2 border-gray-500 rounded-lg"
                   />

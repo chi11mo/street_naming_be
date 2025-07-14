@@ -15,7 +15,8 @@ function App() {
   const [currentTab, setCurrentTab] = useState('info') // 'info', 'streets', 'detail', 'impressum', 'datenschutz'
   const [selectedPerson, setSelectedPerson] = useState(null)
 
-  const filtered = streets.filter(s =>
+  // Nutze nur die aktiven Einträge
+  const filtered = streets.active.filter(s =>
     s.street.toLowerCase().includes(query.toLowerCase())
   )
 
@@ -102,7 +103,7 @@ function App() {
                 }`}
               >
                 <span>🏘️</span>
-                <span>Straßen ({streets.length})</span>
+                <span>Straßen ({streets.active.length})</span>
               </button>
             </nav>
           </div>
@@ -132,7 +133,7 @@ function App() {
                   />
                 </div>
                 <div className="text-sm text-gray-500">
-                  {filtered.length} von {streets.length} Straßen
+                  {filtered.length} von {streets.active.length} Straßen
                 </div>
               </div>
             </div>
