@@ -100,6 +100,22 @@ function InfoSection() {
           <li>• Unterstützen Sie lokale Initiativen zur Aufarbeitung</li>
         </ul>
       </div>
+
+      {/* Info-Box zu anderen Städten */}
+      <div className="mt-8 p-4 bg-orange-50 rounded-lg border border-orange-300">
+        <h4 className="font-semibold text-orange-800 mb-2">🔗 Auch andere Städte handeln</h4>
+        <p className="text-sm text-orange-900 mb-2">
+          Das Thema Umbenennung von NS-belasteten Straßennamen ist auch in anderen Städten aktuell. So hat zum Beispiel der Stadtrat in Warendorf auf Empfehlung eines Bürgerrats beschlossen, mehrere Straßennamen zu ändern, die mit NS-Unterstützung in Verbindung stehen.
+        </p>
+        <a
+          href="https://www.buergerrat.de/aktuelles/strassennamen-warendorfer-stadtrat-folgt-buergerrat/#:~:text=In%20Warendorf%20hat%20der%20Stadtrat,Unterst%C3%BCtzung%20des%20Nationalsozialismus%20vorgeworfen%20wird."
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-orange-700 underline font-semibold hover:text-orange-900"
+        >
+          Mehr dazu: Warendorfer Stadtrat folgt Bürgerrat (buergerrat.de)
+        </a>
+      </div>
     </div>
   )
 }
