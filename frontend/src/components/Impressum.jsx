@@ -33,7 +33,7 @@ function Impressum({ onBack }) {
             <div>
               <h3 className="text-lg font-semibold text-gray-800 mb-2">Verantwortlich für den Inhalt:</h3>
               <p className="text-gray-700">
-                Die Linke Warendorf<br />
+                Die Linke im Kreis Warendorf<br />
                 In den Lampen 5<br />
                 48231 Warendorf<br />
                 Deutschland
@@ -43,15 +43,15 @@ function Impressum({ onBack }) {
             <div>
               <h3 className="text-lg font-semibold text-gray-800 mb-2">Kontakt:</h3>
               <p className="text-gray-700">
-                E-Mail: dominic.wenzel@example.com<br />
-                Telefon: +49 (0) 2525 / XXXXXX
+                E-Mail: kreisvorstand@dielinke-kreis-waf.de<br />
+                Telefon: +49 (0) 25 81 - 927 80 02
               </p>
             </div>
 
             <div>
               <h3 className="text-lg font-semibold text-gray-800 mb-2">Inhaltliche Verantwortung:</h3>
               <p className="text-gray-700">
-                Für den Inhalt dieser Website ist ausschließlich Dominic Wenzel verantwortlich. 
+                Für den Inhalt dieser Website ist ausschließlich die Linke im Kreis Warendorf verantwortlich. 
                 Die Informationen basieren auf öffentlich zugänglichen Quellen und historischen 
                 Forschungen zur NS-Geschichte in Beckum.
               </p>
