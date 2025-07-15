@@ -13,7 +13,6 @@ function PersonDetailPage({ person, onBack }) {
         profession: 'Schriftstellerin, Lyrikerin',
         knownFor: 'Ostpreußische Balladen und Heimatliteratur',
         problematic: 'NS-Unterstützung und Hitler-Verehrung',
-        portrait: 'Agnes_Miegel_1902.jpg',
         description: 'Agnes Miegel (1879-1964) war eine deutsche Schriftstellerin aus Ostpreußen, die vor allem für ihre Balladen und Lyrik bekannt wurde. Sie galt als bedeutende Vertreterin der ostpreußischen Heimatliteratur und wurde oft als "Mutter Ostpreußens" bezeichnet.',
         additionalInfo: 'Ihre literarischen Werke, insbesondere ihre historischen Balladen über ostpreußische Geschichte und Landschaft, fanden großen Anklang und machten sie zu einer der bekanntesten deutschen Dichterinnen ihrer Zeit.',
         facts: [
@@ -34,7 +33,6 @@ function PersonDetailPage({ person, onBack }) {
         profession: 'Schriftstellerin',
         knownFor: 'Völkisch-nationalistische Literatur',
         problematic: 'Völkisch-nationalistische Einstellung',
-        portrait: 'Maria_Kahle.jpg',
         description: 'Maria Kahle (1891-1975) war eine deutsche Schriftstellerin mit völkisch-nationalistischer Ausrichtung.',
         additionalInfo: 'Ihre Werke und politische Haltung stehen im Widerspruch zu demokratischen Werten.',
         facts: [
@@ -54,7 +52,6 @@ function PersonDetailPage({ person, onBack }) {
         profession: 'Schriftsteller, Journalist',
         knownFor: 'Heimatdichtung, Naturlyrik',
         problematic: 'NS-Instrumentalisierung als "Heide-Prophet"',
-        portrait: 'Hermann_Loens.jpg',
         description: 'Hermann Löns (1866-1914) war ein deutscher Schriftsteller und Journalist, der vor allem für seine Heimatdichtung und Naturlyrik bekannt wurde.',
         additionalInfo: 'Obwohl Löns bereits 1914 starb, wurde er von den Nationalsozialisten posthum als "Heide-Prophet" vereinnahmt und für ihre Ideologie instrumentalisiert.',
         facts: [
@@ -75,7 +72,6 @@ function PersonDetailPage({ person, onBack }) {
         profession: 'Schriftsteller, Journalist',
         knownFor: 'Historische Romane, "Soll und Haben"',
         problematic: 'Antisemitische Klischees in seinen Werken',
-        portrait: 'Gustav_Freytag.jpg',
         description: 'Gustav Freytag (1816-1895) war ein deutscher Schriftsteller und Journalist, der vor allem für seinen historischen Roman "Soll und Haben" bekannt wurde.',
         additionalInfo: 'Sein Bestseller "Soll und Haben" (1855) nutzt antisemitische Klischees und wurde im "Dritten Reich" als mustergültig national genutzt.',
         facts: [
@@ -96,7 +92,6 @@ function PersonDetailPage({ person, onBack }) {
         profession: 'Mundartdichterin',
         knownFor: 'Sauerländer Mundartdichtung',
         problematic: 'Völkisch-nationalsozialistische Nähe',
-        portrait: 'Christine_Koch.jpg',
         description: 'Christine Koch (1869-1951) war eine Sauerländer Mundartdichterin, die vor allem für ihre regionale Dichtung bekannt wurde.',
         additionalInfo: 'Neuere Forschung weist auf völkisch-nationalsozialistische Nähe und Mitläufertum hin.',
         facts: [
@@ -117,7 +112,6 @@ function PersonDetailPage({ person, onBack }) {
         profession: 'Mechaniker, Unternehmer',
         knownFor: 'Optische Geräte, Mikroskope',
         problematic: 'Zwangsarbeit in Zeiss-Werken',
-        portrait: 'Carl_Zeiss.jpg',
         description: 'Carl Zeiss (1816-1888) war ein deutscher Mechaniker und Unternehmer, der die Zeiss-Werke gründete und für seine optischen Geräte bekannt wurde.',
         additionalInfo: 'Obwohl Zeiss selbst bereits 1888 starb, setzten die Zeiss-Werke während der NS-Zeit tausende Zwangsarbeiter:innen ein.',
         facts: [
@@ -138,7 +132,6 @@ function PersonDetailPage({ person, onBack }) {
         profession: 'Ingenieur, Unternehmer',
         knownFor: 'Automobilbau, Daimler-Motoren',
         problematic: 'Zwangsarbeit bei Daimler-Benz',
-        portrait: 'Gottlieb_Daimler.jpg',
         description: 'Gottlieb Daimler (1834-1900) war ein deutscher Ingenieur und Unternehmer, der als Pionier des Automobilbaus gilt.',
         additionalInfo: 'Obwohl Daimler selbst bereits 1900 starb, war Daimler-Benz während der NS-Zeit ein Kernunternehmen der Rüstungswirtschaft.',
         facts: [
@@ -160,7 +153,6 @@ function PersonDetailPage({ person, onBack }) {
         profession: 'Erfinder, Unternehmer',
         knownFor: 'Elektrotechnik, Siemens-Konzern',
         problematic: 'Massive Zwangsarbeit bei Siemens',
-        portrait: 'Werner_von_Siemens.jpg',
         description: 'Werner von Siemens (1816-1892) war ein deutscher Erfinder und Unternehmer, der als Pionier der Elektrotechnik gilt.',
         additionalInfo: 'Obwohl Siemens selbst bereits 1892 starb, beschäftigte der Siemens-Konzern während der NS-Zeit rund 120.000 Zwangsarbeiter:innen.',
         facts: [
@@ -181,7 +173,6 @@ function PersonDetailPage({ person, onBack }) {
         profession: 'Unternehmer, Erfinder',
         knownFor: 'Bosch-Konzern, Automobilzulieferer',
         problematic: 'Zwangsarbeit in Bosch-Werken',
-        portrait: 'Robert_Bosch.jpg',
         description: 'Robert Bosch (1861-1942) war ein deutscher Unternehmer und Erfinder, der den Bosch-Konzern gründete.',
         additionalInfo: 'Obwohl Bosch selbst 1942 starb, nutzten Bosch-Konzerne während der NS-Zeit Zwangsarbeit in Ausweichwerken.',
         facts: [
@@ -203,7 +194,6 @@ function PersonDetailPage({ person, onBack }) {
         profession: 'Unternehmer',
         knownFor: 'Zementindustrie, Dyckerhoff AG',
         problematic: 'Profiteur der Zwangsarbeit',
-        portrait: 'Wilhelm_Dyckerhoff.jpg',
         description: 'Wilhelm Dyckerhoff (1835-1903) war ein deutscher Unternehmer, der die Dyckerhoff AG gründete.',
         additionalInfo: 'Obwohl Dyckerhoff selbst bereits 1903 starb, taucht das Unternehmen in bundesweiten Firmenlisten "Profiteure der Zwangsarbeit" auf.',
         facts: [
@@ -226,7 +216,7 @@ function PersonDetailPage({ person, onBack }) {
       profession: 'Unbekannt',
       knownFor: person.reason,
       problematic: person.reason,
-      portrait: null,
+      portrait: person.portrait,
       description: person.reason,
       additionalInfo: '',
       facts: [person.reason],
@@ -319,7 +309,7 @@ function PersonDetailPage({ person, onBack }) {
               <div className="w-full h-80 bg-gray-300 border-2 border-dashed border-gray-500 flex items-center justify-center mb-6 rounded-lg">
                 {data.portrait ? (
                   <img 
-                    src={`/portraits/${data.portrait}`} 
+                    src={data.portrait && data.portrait.startsWith('http') ? data.portrait : `/portraits/${data.portrait}`}
                     alt={`Portrait von ${data.name}`}
                     className="w-full h-full object-cover border-2 border-gray-500 rounded-lg"
                   />

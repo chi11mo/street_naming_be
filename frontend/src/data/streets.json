@@ -7,7 +7,7 @@
       "sources": ["https://en.wikipedia.org/wiki/Agnes_Miegel"],
       "status": "belastet",
       "proposed_action": "Umbenennung",
-      "portrait": "Agnes_Miegel_1902.jpg"
+      "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Agnes_Miegel_1902.jpg/250px-Agnes_Miegel_1902.jpg"
     },
     {
       "street": "Maria-Kahle-Straße",
@@ -16,7 +16,7 @@
       "sources": ["https://wulfen-wiki.de/index.php/Maria_Kahle"],
       "status": "belastet",
       "proposed_action": "Umbenennung",
-      "portrait": "Maria_Kahle.jpg"
+      "portrait": "https://wulfen-wiki.de/images/7/7c/Maria_Kahle.jpg"
     },
     {
       "street": "Hermann-Löns-Weg",
@@ -25,16 +25,16 @@
       "sources": ["https://de.wikipedia.org/wiki/Hermann_L%C3%B6ns"],
       "status": "belastet",
       "proposed_action": "Umbenennung",
-      "portrait": "hermann_loens.jpg"
+      "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hermann_L%C3%B6ns_Kunsthist._Museum.jpg/250px-Hermann_L%C3%B6ns_Kunsthist._Museum.jpg"
     },
     {
       "street": "Gustav-Freytag-Straße",
       "named_after": "Gustav Freytag (1816 – 1895)",
       "reason": "Bestseller 'Soll und Haben' (1855) nutzt antisemitische Klischees; wurde im 'Dritten Reich' als mustergültig national genutzt",
-      "sources": ["https://de.wikipedia.org/wiki/Literarischer_Antisemitismus"],
+      "sources": ["https://de.wikipedia.org/wiki/Gustav_Freytag"],
       "status": "belastet",
       "proposed_action": "Umbenennung",
-      "portrait": "gustav_freytag.jpg"
+      "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1886_Stauffer-Bern_Gustav_Freytag_anagoria.JPG/250px-1886_Stauffer-Bern_Gustav_Freytag_anagoria.JPG"
     }
   ],
   "inactive": [

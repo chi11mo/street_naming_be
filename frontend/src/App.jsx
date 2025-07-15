@@ -198,7 +198,7 @@ function App() {
           </div>
           
           <div className="text-center mt-4 text-xs text-gray-400">
-            <p>© 2024 Dominic Wenzel - Alle Rechte vorbehalten</p>
+            <p>© 2025 Die Linke im Kreis Warendorf - Alle Rechte vorbehalten</p>
           </div>
         </div>
       </footer>
