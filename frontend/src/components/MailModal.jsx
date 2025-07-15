@@ -19,7 +19,7 @@ function MailModal({ entry, onClose }) {
   const openEmailClient = () => {
     const subject = encodeURIComponent(`Straßennamen-Änderung: ${entry.street}`)
     const body = encodeURIComponent(mail)
-    window.open(`mailto:buergermeister@beckum.de?subject=${subject}&body=${body}`)
+    window.open(`mailto:gerdhenrich@beckum.de?subject=${subject}&body=${body}`)
   }
 
   return (

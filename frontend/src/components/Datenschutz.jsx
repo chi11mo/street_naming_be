@@ -127,7 +127,7 @@ function Datenschutz({ onBack }) {
                   Diese Funktion nutzt Ihren lokalen E-Mail-Client und überträgt keine Daten an unsere Server.
                 </p>
                 <p>
-                  Die E-Mail-Adresse des Bürgermeisters (buergermeister@beckum.de) ist eine öffentliche 
+                  Die E-Mail-Adresse des Bürgermeisters (gerdhenrich@beckum.de) ist eine öffentliche 
                   Kontaktadresse der Stadt Beckum.
                 </p>
               </div>

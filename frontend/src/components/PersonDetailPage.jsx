@@ -209,7 +209,13 @@ function PersonDetailPage({ person, onBack }) {
       }
     }
     
-    return personData[person.street] || {
+    if (personData[person.street]) {
+      return {
+        ...personData[person.street],
+        portrait: person.portrait,
+      }
+    }
+    return {
       name: person.named_after,
       birth: 'Unbekannt',
       death: 'Unbekannt',
@@ -231,7 +237,7 @@ function PersonDetailPage({ person, onBack }) {
     const mail = makeMayorMail(person)
     const subject = encodeURIComponent(`Straßennamen-Änderung: ${person.street}`)
     const body = encodeURIComponent(mail)
-    window.open(`mailto:buergermeister@beckum.de?subject=${subject}&body=${body}`)
+    window.open(`mailto:gerdhenrich@beckum.de?subject=${subject}&body=${body}`)
   }
 
   return (
@@ -368,6 +374,11 @@ function PersonDetailPage({ person, onBack }) {
                   {source.name}: <a href={source.url} target="_blank" rel="noopener noreferrer" className="text-red-600 underline">{source.url}</a>
                 </li>
               ))}
+              {data.portrait && (
+                <li>
+                  Bildquelle: <a href={data.portrait} target="_blank" rel="noopener noreferrer" className="text-red-600 underline">{data.portrait}</a>
+                </li>
+              )}
             </ul>
             <p className="italic">
               Dieses Informationsblatt dient der sachlichen Aufklärung und demokratischen Meinungsbildung.

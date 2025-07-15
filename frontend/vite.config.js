@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   base: '/street_naming_be/',
   build: {
-    outDir: 'docs',
+    outDir: '../docs',
     emptyOutDir: true
   }
 });
