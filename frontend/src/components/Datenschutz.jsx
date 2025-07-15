@@ -89,9 +89,9 @@ function Datenschutz({ onBack }) {
                   Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
                 </p>
                 <p>
-                  Dominic Wenzel<br />
-                  Hauptstraße 74<br />
-                  59269 Neubeckum<br />
+                  Die Linke im Kreis Warendorf<br />
+                  In den Lampen 5<br />
+                  48231 Warendorf<br />
                   Deutschland
                 </p>
               </div>
@@ -155,8 +155,9 @@ function Datenschutz({ onBack }) {
                   Sie sich bitte an:
                 </p>
                 <p>
-                  Dominic Wenzel<br />
-                  E-Mail: dominic.wenzel@example.com
+                  Die Linke im Kreis Warendorf<br />
+                  E-Mail: kreisvorstand@dielinke-kreis-waf.de<br />
+                  Telefon: +49 (0) 25 81 - 927 80 02
                 </p>
               </div>
             </div>

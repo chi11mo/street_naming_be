@@ -33,9 +33,9 @@ function Impressum({ onBack }) {
             <div>
               <h3 className="text-lg font-semibold text-gray-800 mb-2">Verantwortlich für den Inhalt:</h3>
               <p className="text-gray-700">
-                Dominic Wenzel<br />
-                Hauptstraße 74<br />
-                59269 Neubeckum<br />
+                Die Linke Warendorf<br />
+                In den Lampen 5<br />
+                48231 Warendorf<br />
                 Deutschland
               </p>
             </div>
